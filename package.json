@@ -1,0 +1,22 @@
+{
+  "name": "funandgames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igern/FunAndGames.git"
+  },
+  "author": "Jonas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igern/FunAndGames/issues"
+  },
+  "homepage": "https://github.com/igern/FunAndGames#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
